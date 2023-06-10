@@ -1,0 +1,86 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #F4FCEA;
+}
+
+#orangeFlag{
+  background-color:orange;
+  width:100%;
+  height:5%;
+  margin-left: 0;
+}
+
+#whiteFlag{
+  background-color:white;
+  width:100%;
+  height:5%;
+  margin-left: 0%;
+}
+
+#greenFlag{
+  background-color:#06A332;
+  width:100%;
+  height:5%;
+  margin-left: 0;
+}
+
+#fancyCircle{
+  height:100%;
+  margin-left:48%;
+}
+
+#heading{
+  text-align: center;
+}
+
+.leftTitle{
+  text-align: center;
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-top:5%;
+  margin-left: 5%;
+  margin-right: 55%;
+  background-color:lightgray;
+}
+
+.leftText{
+    margin-left: 5%;
+    margin-right: 30%;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  text-direction: right;
+  list-style: none;
+}
+
+
+.rightTitle{
+  
+  text-align: center;
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:5px;
+  padding-bottom:5px;
+  
+  margin-top:5%;
+  margin-left: 55%;
+  margin-right: 5%;
+  background-color:lightgray;
+}
+
+.rightText{
+    text-align:right;
+    margin-left: 30%;
+    margin-right: 5%;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  list-style: none;
+}
+
+#dog{
+  position:fixed;
+  float:right;
+  display: -webkit-box;
+  margin-left: auto;
+  width:20%;
+}
